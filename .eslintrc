@@ -1,0 +1,12 @@
+{
+  "root": true, // vamos começar do root
+  "parser": "@typescript-eslint/parser",//vai usar o parser de ts para o eslint.
+  "plugins": [
+    "@typescript-eslint"//para o eslint entender TS.
+  ],
+  "extends": [
+    "eslint:recommended",//usar as regras recomendadas do ESLINT
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended"
+  ]
+}
