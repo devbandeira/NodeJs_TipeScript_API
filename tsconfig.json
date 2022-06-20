@@ -38,4 +38,4 @@
     "dist"
   ]
 }
-/*é ideal que se use as configurações recomendadas do TS, pois se deixarmos tudo em aberto, nós não estaremos seguros de nada. E acabaremos não utilizando a função do Ts que é ser TIPADO. Se permirtirmos um monte de coisa, podemos fazer um mix de tipado com não tipado e não tirando proveito de nada da TIPAGEM.*/
+//é ideal que se use as configurações recomendadas do TS, pois se deixarmos tudo em aberto, nós não estaremos seguros de nada. E acabaremos não utilizando a função do Ts que é ser TIPADO. Se permirtirmos um monte de coisa, podemos fazer um mix de tipado com não tipado e não tirando proveito de nada da TIPAGEM.
